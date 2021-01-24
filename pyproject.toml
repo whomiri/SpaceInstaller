@@ -3,7 +3,7 @@
 name = "SpaceUserbot_Deployer"
 version = "1.0"
 description = "Automatic Deploy SpaceUserBot to Heroku"
-authors = ["Erdem Bey <Erdem@ErdemBey1.tech>"]
+authors = ["Miri <Miri@TheMiri.tech>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 bs4 = "*"
