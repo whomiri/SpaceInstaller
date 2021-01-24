@@ -3,7 +3,7 @@
 
 HerokuAPI'si kullanılarak yapılmış Otomatik Space Deploy'er
 
-Space Reposunu kontrol edin: https://github.com/ErdemBey1/Spaceinstaller 
+Space Reposunu kontrol edin: https://github.com/WhoMiri/SpaceUserBot
 ## Kurulum
 ```sh
 git clone https://github.com/whomiri/spaceuserbot 
@@ -13,9 +13,12 @@ python3 -m space_installer
 ```
 
 ## Geliştiriciler
-[@ErdemBey1](https://t.me/orgut)
+[@TheMiri](https://t.me/TheMiri)
 
-[@Miri](https://t.me/TheMiri)
+[@ErdemBey1](https://t.me/orgutsahibi)
 
 ## Lisans
-Bu proje GPL-3.0 lisansı ile korunmaktadır.
+Bu proje GPL-3.0 lisansı ile korunmaktadır.Tum Haklar Saklıdır
+
+## Credit
+_Speical Thanks: [Yusuf Usta](https://github.com/yusufusta)
