@@ -1,4 +1,4 @@
-# Coded By GitHub/ErdemBey1 TG/orgutsahibi #
+# Coded By GitHub/WhoMiri TG/WhoMiri #
 # Don't kang without permission #
 # @SpaceUserBot #
 
