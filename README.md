@@ -1,7 +1,7 @@
 # Space Installer
 [![Run on Repl.it](https://repl.it/badge/github/ErdemBey1/Spaceinstaller)](https://repl.it/github/ErdemBey1/Spaceinstaller)
 
-HerokuAPI'si kullanılarak yapılmış Otomatik Space Deploy'er
+HerokuAPI'si İşlədilərək Yaradılmış Otomatik Space Deploy'er
 
 Space Reposunu kontrol edin: https://github.com/WhoMiri/SpaceUserBot
 ## Kurulum
