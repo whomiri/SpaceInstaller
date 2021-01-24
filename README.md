@@ -3,7 +3,7 @@
 
 HerokuAPI'si kullanılarak yapılmış Otomatik Space Deploy'er
 
-Space Reposunu kontrol edin: https://github.com/Quiec/AsenaUserBot
+Space Reposunu kontrol edin: https://github.com/ErdemBey1/Spaceinstaller 
 ## Kurulum
 ```sh
 git clone https://github.com/ErdemBey1/Spaceinstaller 
