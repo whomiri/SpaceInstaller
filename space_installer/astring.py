@@ -109,11 +109,11 @@ def main():
         if soup.title.string == "Create new application":
             bilgi(LANG['NEW_APP'])
             hashh = soup.find("input", {"name": "hash"}).get("value")
-            app_title = soru("Uygulamanızın adı ne olsun? (Otomatik oluşturmak için boş bırakın): ")
+            app_title = soru("APPın adı nə olsun? (Avtomatik yaratmağ üçün enter düyməsinə basın): ")
             if app_title == '':
                 app_title = choice(["as", "ase", "asen", "madelineproto", "telethon", "pyrogram"]) + choice(["", "-", "+", " "]) + choice(["user", "bot", "vue", "jsx", "python", "php"]) + choice([str(randint(10000, 99999)), ""])
             
-            app_shortname = soru("Uygulamanızın kısa adı ne olsun? (Otomatik oluşturmak için boş bırakın) \[5-32 karakter\]: ")
+            app_shortname = soru("APPın qısa adı nə olsun? (Avtomatik yaratmağ üçün enter düyməsinə basın) \[5-32 karakter\]: ")
             if app_shortname == '':
                 app_shortname = choice(["as", "ase", "asen", "madelineproto", "telethon", "pyrogram"]) + choice(["", "-", "+", " "]) + choice(["user", "bot", "vue", "jsx", "python", "php"]) + choice([str(randint(10000, 99999)), ""])
             
@@ -128,7 +128,7 @@ def main():
             app = requests.post("https://my.telegram.org/apps/create", data=AppInfo, cookies=cookie).text
 
             if app == "ERROR":
-                hata("(!) Telegram otomatik açma işleminizi engellendi. Lütfen scripti yeniden başlatın.")
+                hata("(!) Telegram avtomatik app açmağınızı blockladı. Scripti yeniden başladın.")
                 exit(1)
 
             bilgi(LANG['CREATED'])
@@ -163,5 +163,5 @@ def main():
             hata(LANG['ERROR'])
             exit(1)
     else:
-        hata("(!) Bilinmeyen seçim.")
+        hata("(!) Bilinməyən bir seçim.")
         exit(1)
