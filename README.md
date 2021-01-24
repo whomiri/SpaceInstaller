@@ -6,7 +6,7 @@ HerokuAPI'si kullanılarak yapılmış Otomatik Space Deploy'er
 Space Reposunu kontrol edin: https://github.com/ErdemBey1/Spaceinstaller 
 ## Kurulum
 ```sh
-git clone https://github.com/ErdemBey1/Spaceinstaller 
+git clone https://github.com/whomiri/spaceuserbot 
 cd Installer
 pip install -r requirements.txt
 python3 -m space_installer
