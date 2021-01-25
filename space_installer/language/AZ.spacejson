@@ -1,5 +1,5 @@
 {
-    "__ASENAJSON__": true,
+    "__SPACEJSON__": true,
     "LANGUAGE": "Azərbaycanca",
     "LANGCODE": "AZ",
     "AUTHOR": "Senan Oğuz / William Shakespeare",
@@ -28,8 +28,8 @@
             "ERROR": "Bir xəta baş verdi! Xəta:",
             "POSTGRE": "(i) PostgreSQL yüklənir...",
             "SUCCESS_POSTGRE": "(✓) PostgreSql Yükləndi!",
-            "AUTO_BOTLOG": "Bu qrup avtomatik olaraq quraşdırılma zamanı @AsenaUserBot ilə yaradılmışdır.",
-            "DONT_LEAVE": "**XAHİŞ EDİRİK BU QRUPDAN ÇIXMAYIN!**",
+            "AUTO_BOTLOG": "Bu qrup avtomatik olaraq quraşdırılma zamanı @SpaceUserBot ilə yaradılmışdır.",
+            "DONT_LEAVE": "**BU GRUPDAN ÇIXMAYIN, ƏKSİ TƏQDİRDƏ SNİPS MODULLARINIZ İŞLƏMƏZ!**",
             "AFTER_INSTALL": "Quraşdırılma sonrası prosedurunu başlatmaq istəyirsiniz?",
             "BOTLOG": "BotLog Qrupu Yaradın",
             "OPENING_BOTLOG": "(i) Qrup yaradılır...",
