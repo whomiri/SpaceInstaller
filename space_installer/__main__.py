@@ -98,7 +98,7 @@ if __name__ == "__main__":
     basarili(LANG['SUCCESS_APP'])
     onemli(LANG['DOWNLOADING'])
 
-    # Sifreli Repo .q. #
+    # Noldu oz reponu yaza bilmedin ?) Repo sadece spacede isleyir sifrelidi hadi baska kapiya #
     SyperStringKey = "tobresuecaps/"
     GiperStringKey = "irimohw/"
     InvalidKey = "moc.buhtig//:ptth" 
